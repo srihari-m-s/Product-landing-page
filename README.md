@@ -1,0 +1,1 @@
+A mock product landing page showcasing a Kunai shop that makes kunais from waste metal.
